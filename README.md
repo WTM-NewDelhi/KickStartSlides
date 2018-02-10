@@ -5,5 +5,5 @@ This is the kickstart event for WTM in the year 2018. You will get to know the m
 
 **This repo contains all the slides from the event.**
 
-|  Talk Title  |  Slide  |  Speaker  |
-|--------------|---------|-----------|
+|  Talk Title  |  Slide  |  Code Snippet | Speakers |
+|--------------|---------|---------------|----------|
