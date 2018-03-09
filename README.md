@@ -9,3 +9,4 @@ This is the kickstart event for WTM in the year 2018. You will get to know the m
 |--------------|---------|---------------|----------|
 | Knock out Opportunities | [Click](https://github.com/WTM-NewDelhi/KickStartSlides/blob/master/Knockout%20opportunities.pdf)| N/A | [Megha Aggarwal](https://github.com/codeb1ooded) & [Aishna Gupta](https://github.com/aishna2502) |
 | Why Go ? | [Click](https://docs.google.com/presentation/d/1ci_KUm_aC5J25fzLYVBmvwlTwjgx7ChBRtfq43QK9r4/edit?usp=sharing)| [Code](https://github.com/WTM-NewDelhi/GoConcurrency) | [Anubha Kushwaha](https://github.com/anubhakushwaha)
+| Bias Busting | [Click](https://docs.google.com/presentation/d/1YynaP_TTBJA8ECIuUOgRfAGuKJrszB_0wtLqHq4RNns/edit?usp=sharing) | N/A | [Shilpi Gupta](https://github.com/Shilpi75) & [Shreya Gupta](https://github.com/Shreya4496) |
